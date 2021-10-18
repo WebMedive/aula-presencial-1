@@ -1,0 +1,37 @@
+.menu-principal {
+    width: 100%;
+    float: left;
+    background-color: #0F00FF;
+    position: relative;
+}
+.logo {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin-left: 40px;
+}
+.menu-2 {
+    text-align: right;
+    float: right;
+    width: 10%;
+    padding-right: 10px;
+}
+.menu-2 a {
+    text-decoration: none;
+    color: white;
+    float: left;
+    padding-right: 10px;
+    text-align: right;
+    font-size: 18px;
+    margin-top: 3em;
+}
+.col-100 {
+    width: 100%;
+    float: left;
+}
+.mapa {
+    float: left;
+    margin-top: 3em;
+    text-align: center;
+}
+
